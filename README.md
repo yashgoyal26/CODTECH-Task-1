@@ -10,6 +10,10 @@
 
 **Duration -** June to August 2024
 
+![Screenshot 2024-08-03 140205](https://github.com/user-attachments/assets/2a6cb405-c8ac-4465-89d6-0386f5d10a16)
+![Screenshot 2024-08-03 140239](https://github.com/user-attachments/assets/1b3c15c1-50bd-4ec9-b37f-7dc91a78be15)
+
+
 **OBJECTIVE -**
 
 The objective of the project is to develop digital cicuits such as logic gates , adders , multiplexer using verilog within VLSI software.
